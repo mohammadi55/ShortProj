@@ -55,7 +55,7 @@
                       <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="RT"/>
+                      <text value="rt  "/>
                     </properties>
                   </component>
                   <component id="16407" class="javax.swing.JButton" binding="Pi" custom-create="true">
@@ -63,7 +63,7 @@
                       <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="π"/>
+                      <text value="π "/>
                     </properties>
                   </component>
                   <component id="1685b" class="javax.swing.JButton" binding="remainderButton" custom-create="true" default-binding="true">
@@ -79,7 +79,7 @@
                       <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="1"/>
+                      <text value="1 "/>
                     </properties>
                   </component>
                   <component id="895e" class="javax.swing.JButton" binding="a0Button" custom-create="true" default-binding="true">
@@ -87,7 +87,7 @@
                       <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="0"/>
+                      <text value="0 "/>
                     </properties>
                   </component>
                 </children>
@@ -100,12 +100,12 @@
                 <properties/>
                 <border type="none"/>
                 <children>
-                  <component id="7b193" class="javax.swing.JButton" binding="PWButton" custom-create="true" default-binding="true">
+                  <component id="7b193" class="javax.swing.JButton" binding="pwButton" custom-create="true" default-binding="true">
                     <constraints>
                       <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="PW"/>
+                      <text value="pw"/>
                     </properties>
                   </component>
                   <component id="a3d9b" class="javax.swing.JButton" binding="e" custom-create="true">
@@ -137,7 +137,7 @@
                       <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="3"/>
+                      <text value="3 "/>
                     </properties>
                   </component>
                 </children>
@@ -155,7 +155,7 @@
                       <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="Tan"/>
+                      <text value="tan"/>
                     </properties>
                   </component>
                   <component id="74505" class="javax.swing.JButton" binding="Bracket" custom-create="true">
@@ -187,7 +187,7 @@
                       <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="5"/>
+                      <text value="5 "/>
                     </properties>
                   </component>
                 </children>
@@ -205,7 +205,7 @@
                       <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="Cos"/>
+                      <text value="cos"/>
                     </properties>
                   </component>
                   <component id="7b656" class="javax.swing.JButton" binding="lnButton" custom-create="true" default-binding="true">
@@ -213,7 +213,7 @@
                       <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="Ln"/>
+                      <text value="Ln  "/>
                     </properties>
                   </component>
                   <component id="5ce0f" class="javax.swing.JButton" binding="addButton" custom-create="true" default-binding="true">
@@ -229,7 +229,7 @@
                       <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="6"/>
+                      <text value="6 "/>
                     </properties>
                   </component>
                   <component id="21bf4" class="javax.swing.JButton" binding="a7Button" custom-create="true" default-binding="true">
@@ -237,7 +237,7 @@
                       <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="7"/>
+                      <text value="7 "/>
                     </properties>
                   </component>
                 </children>
@@ -255,7 +255,7 @@
                       <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="Sin"/>
+                      <text value="sin "/>
                     </properties>
                   </component>
                   <component id="6cf5f" class="javax.swing.JButton" binding="logButton" custom-create="true" default-binding="true">
@@ -279,7 +279,7 @@
                       <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="8"/>
+                      <text value="8 "/>
                     </properties>
                   </component>
                   <component id="d036f" class="javax.swing.JButton" binding="a9Button" custom-create="true" default-binding="true">
@@ -287,7 +287,7 @@
                       <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                     </constraints>
                     <properties>
-                      <text value="9"/>
+                      <text value="9 "/>
                     </properties>
                   </component>
                 </children>
